@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Tienda en línea",
+      "description": "Ofrecemos desarrollo web de su propia tienda en línea, implementando nuevas tecnologías para lograr un buen alcance en todas sus ventas.",
+      "image": "images/building.svg"
+    },
+    {
+      "title": "Farmacia",
+      "description": "Ofrecemos un sitio web que te permitirá llevar el control de todos los medicamentos, así como las ventas que se van generando.",
+      "image": "images/undraw.svg"
+    },
+    {
+      "title": "Venta de Ropa",
+      "description": "Contamos con un comercio electrónico de ropa en el cual se pueden vender, elegir color, talla, etc. Lo cual te permitirá llevar tus ventas hacia más clientes de distintas partes del mundo.",
+      "image": "images/shopping.svg"
+    }
+  ]
+}

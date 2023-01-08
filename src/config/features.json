@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Encrypted",
+        "description": "Tus datos estan encriptados y almacenados en una base de datos de forma segura."
+    },
+    {
+        "title": "Open Source",
+        "description": "Este sitio es de uso libre, no es necesario mencionar el autor."
+    },
+    {
+        "title": "Free",
+        "description": "El código es totalmente gratuito."
+    },
+    {
+        "title": "Fast",
+        "description": "Diseña tu propia interfaz mediante esta plantilla o código."
+    },
+    {
+        "title": "Secure",
+        "description": "Este sitio web es totalmente seguro."
+    },
+    {
+        "title": "Cross Platform",
+        "description": "Esta página web es multiplataforma"
+    }
+    
+]
